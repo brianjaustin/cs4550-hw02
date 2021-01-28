@@ -1,0 +1,48 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Brian Austin
+
+2. What hostname did you deploy to?
+hw02.baustin-neu.site
+
+3. What's the link to your repository on github with your code?
+https://github.com/brianjaustin/cs4550-hw02
+
+4. How many HTML / CSS tutorial exercises did you do?
+I skimmed most of the basic HTML / CSS tutorials and used
+the advanced as reference sources (particularly for flexbox things).
+I only did 1 or 2 exercises for tags/attributes I'd not seen before.
+
+5. How comfortable do you feel with HTML and CSS now?
+Fairly comfortable, as long as I can still reference documentation
+from time to time.
+
+6. How many JS tutorial exercises did you do?
+I skimmed most of the DOM tutorials and did 1 or 2 exercises.
+
+7. How comfortable do you feel with JS now?
+Comfortable for basic things, but I had to rely on documentation
+fairly heavily for intermediate to advanced things.
+
+8. Do all of your HTML pages pass the W3C HTML validator?
+(https://validator.w3.org/)
+Yes.
+
+9. Which parts of this assignment did you have trouble with, if any?
+Getting all the parts of the calculator aligned properly was a bit tricky,
+as was getting decimals/integers to format properly.
+
+
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
